@@ -13,3 +13,6 @@ h1 , p, ul{
 a:hover {
     background-color: green;
   }
+
+
+.bolded { font-weight: bold; }
