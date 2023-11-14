@@ -9,6 +9,7 @@ body{
 }
 h1 , p, ul{
     font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 a:hover {
     background-color: green;
